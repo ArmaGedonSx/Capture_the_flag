@@ -1,0 +1,7 @@
+webstorm esetén konzolban:
+npm install
+
+Ha ez megvan:
+npx webpack
+
+Ezután futtatható a .html fájl. Az npx használata mindig kell, ha módosítasz. 

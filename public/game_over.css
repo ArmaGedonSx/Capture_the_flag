@@ -1,0 +1,16 @@
+html, body {
+    height: 100%;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #310000;
+}
+#game-container {
+    margin-left: auto;
+    margin-right: auto;
+    color: white;
+    font-size: 10em;
+    user-select: none;
+    text-shadow: 7px 7px 3px #000000;
+}
